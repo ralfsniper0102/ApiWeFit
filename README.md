@@ -18,10 +18,11 @@ O projeto consiste em uma API REST para cadastro e consulta de perfis, com valid
 - **Swagger-ui-express**: para exibir a documentação da API
 
 ## Arquitetura
-A aplicação segue a arquitetura Model-Controller-REST (MCR), onde:
-- **Model**: responsável por lidar com a lógica de negócios e os dados da aplicação
-- **Controller**: responsável por lidar com as requisições e respostas da API
-- **REST**: responsável por enviar as respostas da API em formato JSON
+Este projeto utiliza uma arquitetura em camadas baseada em REST, com a seguinte estrutura:
+
+- **Models**: Responsáveis pela representação dos dados e regras de negócio
+- **Controllers**: Gerenciam o fluxo da aplicação e requisições
+- **REST API**: Interface de comunicação seguindo os princípios REST
 
 ## Estrutura do Projeto
 A estrutura básica de diretórios do projeto é a seguinte:
