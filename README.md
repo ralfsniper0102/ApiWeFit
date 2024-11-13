@@ -1,6 +1,6 @@
 # Teste Backend
 
-Este é um projeto de teste de backend desenvolvido em Node.js, utilizando o framework Express.js e a arquitetura Model-Controller-REST (MCR).
+Este é um projeto de teste de backend desenvolvido em Node.js, utilizando o framework Express.js e a arquitetura seguindo os principios REST.
 
 ## Resumo
 O projeto consiste em uma API REST para cadastro e consulta de perfis, com validação de campos, verificação de duplicidade e persistência dos dados em banco de dados. A API é documentada automaticamente com Swagger.
