@@ -12,7 +12,7 @@ const options = {
   definition: {
     openapi: '3.0.0',
     info: {
-      title: 'Seja bem vindo ao teste de backend da Wefit.',
+      title: 'Welcome to the Wefit backend test.',
       version: '1.0.0',
       description: 'Here you can create, view, update and delete profiles.',
     },
