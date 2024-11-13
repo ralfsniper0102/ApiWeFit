@@ -39,11 +39,11 @@ Este é um projeto de teste de backend desenvolvido em Node.js, utilizando o fra
 
 ## Executando o Projeto:
 
-docker-compose up
-npm run dev
+- docker-compose up
+- npm run dev
 
 ## Iniciando Projeto com os seguinte comandos (Caso seja necessário criar o volume do banco novamente):
 
-docker-compose up
-npx sequelize db:create 
-npx sequelize db:migrate
+- docker-compose up
+- npx sequelize db:create 
+- npx sequelize db:migrate
